@@ -1,7 +1,6 @@
 # Writeup: Explotación de Backdoor en vsftpd 2.3.4 (CVE-2011-2523)
 
 **Máquina:** DockerLabs — FirstHacking
-**Dificultad:** Muy fácil / introductoria
 **Objetivo:** Obtener acceso root explotando una puerta trasera conocida en vsftpd 2.3.4
 
 ---
