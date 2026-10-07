@@ -1,4 +1,4 @@
-La máquina Acme de la plataforma DockerLabs es una máquina de dificultad "Muy Fácil" que enseña cómo un portal en mantenimiento puede filtrar credenciales de acceso a través del propio banner de SSH. Una vez dentro, expone servicios web internos (WordPress) que permiten practicar un camino completo de explotación: enumeración de usuarios, lectura de configuración sensible y manipulación directa de la base de datos para tomar control del panel de administración.
+La máquina Acme de la plataforma DockerLabs es una máquina que enseña cómo un portal en mantenimiento puede filtrar credenciales de acceso a través del propio banner de SSH. Una vez dentro, expone servicios web internos (WordPress) que permiten practicar un camino completo de explotación: enumeración de usuarios, lectura de configuración sensible y manipulación directa de la base de datos para tomar control del panel de administración.
 
 # ACME
 
